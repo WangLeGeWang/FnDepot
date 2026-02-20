@@ -18,7 +18,7 @@
     "display_name": "fndepotarm测试",
     "desc": "测试项",
     "labels": "工具,效率",
-    "platform": "all",
+    "platform": "arm",
     "version": "0.0.1",
     "author": "EWEDL",
     "author_url": "https://github.com/EWEDLCM/",
