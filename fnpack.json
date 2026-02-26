@@ -26,7 +26,7 @@
     "install_type": "存储空间",
     "size": "66",
     "changelog": "测试arm"
-  }，
+  },
   "armtest2": {
     "display_name": "fndepot测试2",
     "desc": "测试项",
