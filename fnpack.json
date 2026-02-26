@@ -11,7 +11,6 @@
     "install_type": "系统空间",
     "size": "28.7",
     "changelog": "新增支持秘钥、系统识别、孤立日志清理、标签栏样式选择、光标样式选择；优化手机端样式、工具栏、手势操作（没有演示），改用db存储数据，开启外部访问地址填写"
-    }
   },
   "armtest": {
     "display_name": "fndepotarm测试",
@@ -52,5 +51,6 @@
         "download_url": "https://example.com/example4_arm.fpk",
         "changelog": "ARM架构适配"
       }
+    }
   }
 }
