@@ -10,8 +10,7 @@
     "bug_report_url": "https://github.com/EWEDLCM/FnDepot/fntermx/issues",
     "install_type": "系统空间",
     "size": "28.7",
-    "history": {
-      "v1.1.0": "新增支持秘钥、系统识别、孤立日志清理、标签栏样式选择、光标样式选择；优化手机端样式、工具栏、手势操作（没有演示），改用db存储数据，开启外部访问地址填写"
+    "changelog": "新增支持秘钥、系统识别、孤立日志清理、标签栏样式选择、光标样式选择；优化手机端样式、工具栏、手势操作（没有演示），改用db存储数据，开启外部访问地址填写"
     }
   },
   "armtest": {
@@ -25,9 +24,33 @@
     "download_url": "",
     "bug_report_url": "https://github.com/EWEDLCM/FnDepot/",
     "install_type": "存储空间",
-    "size": "666",
-    "history": {
-      "v1.1.0": "新增支持秘钥、系统识别、孤立日志清理、标签栏样式选择、光标样式选择；优化手机端样式、工具栏、手势操作（没有演示），改用db存储数据，开启外部访问地址填写"
-    }
+    "size": "66",
+    "changelog": "测试arm"
+  }，
+  "armtest2": {
+    "display_name": "fndepot测试2",
+    "desc": "测试项",
+    "labels": "工具,效率",
+    "platform": "arm",
+    "version": "0.0.1",
+    "author": "EWEDL",
+    "author_url": "https://github.com/EWEDLCM/",
+    "download_url": "",
+    "bug_report_url": "https://github.com/EWEDLCM/FnDepot/",
+    "install_type": "存储空间",
+    "size": "66",
+    "changelog": "测试arm",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://example.com/example4_x86.fpk",
+        "size": "25"
+      },
+      "arm": {
+        "version": "1.0.1",
+        "size": "30",
+        "desc": "ARM架构优化版本",
+        "download_url": "https://example.com/example4_arm.fpk",
+        "changelog": "ARM架构适配"
+      }
   }
 }
