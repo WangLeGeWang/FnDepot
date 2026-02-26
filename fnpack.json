@@ -27,7 +27,6 @@
     "changelog": "测试arm",
     "arch_diff": {
       "x86": {
-        "download_url": "https://example.com/example4_x86.fpk",
         "size": "25"
       },
       "arm": {
