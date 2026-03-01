@@ -7,7 +7,7 @@
     "author": "EWEDL",
     "author_url": "https://github.com/EWEDLCM/",
     "download_url": "",
-    "isdocker": "true",
+    "isdocker": "false",
     "bug_report_url": "https://github.com/EWEDLCM/FnDepot/issues",
     "install_type": "系统空间",
     "size": "28.7",
