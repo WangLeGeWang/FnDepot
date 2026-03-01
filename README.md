@@ -22,7 +22,7 @@ FnDepot 是运行于 FNOS 上的去中心化第三方应用管理器。本文档
 
 3. 目录结构 (Directory Structure)
 FnDepot 采用扁平化的目录结构。仓库根目录必须包含全局索引文件 fnpack.json，每个应用拥有独立的子目录。
-
+```
 FnDepot/                      # [Root] 仓库根目录
 │
 ├── fnpack.json               # [Core] 全局元数据索引文件
@@ -37,7 +37,7 @@ FnDepot/                      # [Root] 仓库根目录
 │       └── 02.jpg
 │
 └── ... (其他应用目录)
-
+```
 3.1 命名约定
 - 应用唯一标识 (app_name)：
   - 仅允许使用小写字母 (a-z)、数字 (0-9) 和 连字符 (-)。
