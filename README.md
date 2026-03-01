@@ -48,7 +48,7 @@ FnDepot/                      # [Root] 仓库根目录
 fnpack.json 是应用源的核心数据库，位于仓库根目录。它是一个标准的 JSON 对象，其键（Key）为应用的 app_name。
 
 4.1 数据结构
-
+```
 {
   "app_name": {
     "display_name": "String",
@@ -67,7 +67,7 @@ fnpack.json 是应用源的核心数据库，位于仓库根目录。它是一�
     "arch_diff": "Object"
   }
 }
-
+```
 4.2 字段定义表
 
 | 字段 | 类型 | 必填 | 描述与约束 |
