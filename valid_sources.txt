@@ -15,7 +15,6 @@ https://github.com/harbiu317/FnDepot
 https://github.com/hbestm/FnDepot
 https://github.com/jianzhichu/FnDepot
 https://github.com/luodaoyi/FnDepot
-https://github.com/mac1256/FnDepot
 https://github.com/mg6630/fnos-lxc
 https://github.com/moxyis/FnDepot
 https://github.com/mynono33/FnDepot
