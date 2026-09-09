@@ -236,6 +236,14 @@ V1 和 V2 共用 `fnpack.json`。客户端根据 JSON 内容识别格式，而�
 | `service_port` | 字符串 | 覆盖应用级值。 |
 | `packages` | 对象 | 必填，按架构提供安装包。 |
 
+`updated_at` 建议使用带时区偏移的 ISO 8601 格式，例如：
+
+```text
+"updated_at": "2026-09-08T00:00:00+08:00"
+```
+
+同一个格式也适用于安装包级 `updated_at` 和应用级 `details_updated_at`。
+
 客户端先按当前设备架构和系统版本过滤，再选择最高可用版本。版本号不能使用“latest”或日期文字替代。
 
 ### 5.2 `packages`
