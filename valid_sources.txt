@@ -1,5 +1,6 @@
 https://github.com/0999we/FnDepot
 https://github.com/710850609/FnDepot
+https://github.com/Brian099/FnDepot
 https://github.com/Brian099/fn_fpk_packages
 https://github.com/DinDing1/FnDepot
 https://github.com/EWEDLCM/FnDepot
@@ -17,7 +18,6 @@ https://github.com/jianzhichu/FnDepot
 https://github.com/luodaoyi/FnDepot
 https://github.com/mg6630/fnos-lxc
 https://github.com/moxyis/FnDepot
-https://github.com/mynono33/FnDepot
 https://github.com/qilin-zhu/LitePan-fpk
 https://github.com/shuangji66/FnDepot
 https://github.com/slepoh/FnDepot
